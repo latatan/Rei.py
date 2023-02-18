@@ -1,4 +1,4 @@
-<font size=10>Hello Visitor .</font>
+<h1>Hello Visitor .<h1>
 
 I have to apologize about Fisherman.py because it is no longer in developing.
 No-one use it. I know that's it is easy to make but, it doesn't make **my goal**.
